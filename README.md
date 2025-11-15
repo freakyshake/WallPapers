@@ -1,2 +1,2 @@
 # WallPapers
-Dark Themed Wall papers for desktop and browsers.
+Dark Themed Wallpapers for desktop and browsers.
